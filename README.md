@@ -25,7 +25,7 @@ The **Railway Reservation System** is a terminal-based application designed to f
 
 1. **Clone the Repository**: 
    ```bash
-   git clone <https://github.com/sagnik03/RailwayReservationSystem>
+   git clone <https://github.com/sagnik03/RailwayReservationSystem.git>
    cd Railway-Reservation-System
    make
    ./Main
