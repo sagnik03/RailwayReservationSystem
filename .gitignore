@@ -1,0 +1,11 @@
+# Object files
+*.o
+
+# Executable files
+RailwayReservationSystem
+
+# MacOS generated files
+.DS_Store
+
+# Log files
+*.log
